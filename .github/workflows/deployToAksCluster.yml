@@ -1,6 +1,6 @@
 name: API - AKS - Build and deploy
 
-on:
+on: push
 push:
   branches:
   - main
